@@ -4,8 +4,9 @@ this repository has collection of commands that are useful  in IT
 ______________________________________________________
 ## Docker Cheatsheet
 Pull Container 
-`docker pull [CONTAINER_NAME]`
-
+```
+docker pull [CONTAINER_NAME]
+```
 See All Containers
 `docker ps --al`l
 
