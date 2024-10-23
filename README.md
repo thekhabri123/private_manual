@@ -13,7 +13,7 @@ Delete all Stoped Containers 🥵️
 `docker container prune`
 
 Run Containers
-`docker run -it [IMAGE]`
+```docker run -it [IMAGE]```
 `docker run -it centos`
 `docker run -it alpine`
 
