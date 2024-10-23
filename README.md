@@ -7,19 +7,19 @@ Pull Container
 `docker pull [CONTAINER_NAME]`
 
 See All Containers
-docker ps --all
+`docker ps --al`l
 
 Delete all Stoped Containers 🥵️ 
-docker container prune
+`docker container prune`
 
 Run Containers
-docker run -it [IMAGE]
-docker run -it centos
-docker run -it alpine
+`docker run -it [IMAGE]`
+`docker run -it centos`
+`docker run -it alpine`
 
 Stop Docker Container
-docker stop centos
+`docker stop centos`
 
 List Downloaded Images
-docker images
+`docker images`
 
